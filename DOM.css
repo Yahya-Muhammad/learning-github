@@ -1,0 +1,22 @@
+body  {
+	background-color: green;
+	cursor: pointer;
+	background-image: url(Heartnew.jpg);
+	background-size: cover;
+    	
+}
+
+
+h1 {
+	color: black;
+	text-shadow: 5px 5px yellow;
+		
+}
+
+li {
+	color: black;
+}
+
+
+
+
